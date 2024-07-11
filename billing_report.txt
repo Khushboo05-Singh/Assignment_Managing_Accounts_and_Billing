@@ -1,0 +1,17 @@
+
+Average Payment Amount: 479.3090181019999
+Outliers:     Account ID Customer Name Billing Date       Amount   Status Description  \
+6         1007     Chris Lee   2023-01-07  2864.738488  pending    Lab Test   
+16        1017      John Doe   2023-01-17  2748.478753  pending      Refund   
+31        1032  David Wilson   2023-02-01  2812.330089  pending   Procedure   
+84        1085  Olivia Davis   2023-03-26  3006.661392     paid   Emergency   
+86        1087    Emma Brown   2023-03-28  3849.771331  pending  Medication   
+93        1094    Jane Smith   2023-04-04  3593.752963  pending    Purchase   
+
+          Department  Cycle Time  Payment Discrepancy  
+6   general practice          93          2379.083729  
+16               ent          83          2697.078260  
+31          oncology          68          1222.509310  
+84               ent          15          2594.645341  
+86           unknown          13          3790.039395  
+93        pediatrics           6          3119.127677  
